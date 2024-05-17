@@ -1,0 +1,32 @@
+.heading{
+display: flex;
+justify-content: center;
+margin-top: 2%;
+font-size: 3em;
+}
+table,th,td{
+    border-collapse: collapse;
+     margin-top: 0px;
+     margin-bottom: 2%;
+     margin-left: 2%;
+     margin-right: 2%;
+     border: 1px solid black;
+}
+
+th,td{
+    padding: 15px;
+    text-align: left;
+}
+table{
+    margin-left: 35%;
+    margin-top:10%;
+}
+.input-form{
+margin-left: 35%;
+margin-top: 5%;
+}
+.insert{
+    display:flex;
+    justify-content: center;
+
+}
